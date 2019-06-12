@@ -4,7 +4,7 @@ The arXiv has modified versions of some of the standard bibtex style files (habb
 https://arxiv.org/help/hypertex/bibstyles
 
 This repository contains further modified style files in which the eprint fields have hyperlinks.  To use them just add "eprint" to your bibtex entries like this:
-
+```
 @article{ABC,
 author = {Alpha and Beta and Gamma},
 title = {A paper},
@@ -12,3 +12,4 @@ year = {2019},
 journal = {Journal of Papers},
 eprint = {1901.00000}
 }
+```
