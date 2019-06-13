@@ -13,3 +13,13 @@ journal = {Journal of Papers},
 eprint = {1901.00000}
 }
 ```
+
+There are two other optional fields:  `archivePrefix` and `primaryClass`. Use them like
+```
+archivePrefix = "arXiv"
+primaryClass = "hep-th"
+```
+If you leave them empty then they will default to "arXiv" and "" respectively.
+
+*Warning* I have only tested hyperabbrv.bst.  Please raise an issue if you find issues
+ with any of the others.
