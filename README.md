@@ -21,5 +21,6 @@ primaryClass = "hep-th"
 ```
 If you leave them empty then they will default to "arXiv" and "" respectively.
 
-*Warning* I have only tested hyperabbrv.bst.  Please raise an issue if you find issues
+### Warning
+I have only tested hyperabbrv.bst.  Please raise an issue if you find issues
  with any of the others.
