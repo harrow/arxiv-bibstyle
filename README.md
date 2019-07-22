@@ -24,3 +24,9 @@ If you leave them empty then they will default to "arXiv" and "" respectively.
 ### Warning
 I have only tested hyperabbrv.bst.  Please raise an issue if you find issues
  with any of the others.
+
+### Note
+[Revtex 4.2](https://journals.aps.org/revtex) has similar eprint functionality.
+
+### Contact
+Aram Harrow <harrow@gmail.com>
